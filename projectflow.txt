@@ -148,4 +148,4 @@
 mohdshamsher365_db_user
 MmS57GPUEW75neEz
 
-mongodb+srv://mohdshamsher365_db_user:<db_password>@cluster0.saf3aps.mongodb.net/?appName=Cluster0
+mongodb+srv://mohdshamsher365_db_user:MmS57GPUEW75neEz@cluster0.saf3aps.mongodb.net/?appName=Cluster0
